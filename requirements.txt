@@ -1,0 +1,9 @@
+# Security IoT System Dependencies
+# ================================
+
+# For Raspberry Pi (motion_detector.py)
+BlynkLib>=0.0.6
+gpiozero>=1.6.2
+
+# For Laptop/Server (camera_server.py)
+opencv-python>=4.5.0

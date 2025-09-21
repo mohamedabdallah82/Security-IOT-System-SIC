@@ -1,0 +1,10 @@
+# Security IoT System - Git Ignore File
+# =====================================
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (keep structure, ignore content)
+data/distance_log.csv
+server/captures/
