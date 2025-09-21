@@ -150,10 +150,10 @@ Security_System/
 - Review `data/distance_log.csv` for historical data
 - Check `server/captures/` for captured images
 
-## Credits
+## Collaborators
 
 This project was developed with contributions from:
 
-- [@salehNassar](https://github.com/salehNassar)
-- [@AyaAhmed72](https://github.com/AyaAhmed72)
-- [@mohamedabdallah82](https://github.com/mohamedabdallah82)
+- [Saleh Nassar](https://github.com/salehNassar)
+- [Aya Ahmed](https://github.com/AyaAhmed72)
+- [Mohamed Abdallah](https://github.com/mohamedabdallah82)
